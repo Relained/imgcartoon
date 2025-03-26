@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-SOURCE = "/Users/relained/Pictures/123.png"
+SOURCE = "/Users/relained/MEGA/work/univ/ComputerVision/imgcartoon/123.png"
 
 img = cv2.imread(SOURCE)
 
